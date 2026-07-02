@@ -1,0 +1,8 @@
+pywin32==306
+psutil==5.9.8
+mss==9.0.1
+Pillow==10.3.0
+pynput==1.7.6
+WMI==1.5.1
+requests==2.31.0
+cryptography==42.0.5
